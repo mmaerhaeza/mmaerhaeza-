@@ -10,7 +10,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,figma,java,python,mysql" alt="My Skills"/>
   </a>
 
-<h3 align="left">Connect with me:</h3>
+## Connect and Communicate with me:
 <p align="left">
 <a href="https://fb.com/rhaezamae.murillo.900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rhaezamae.murillo.900" height="30" width="40" /></a>
 <a href="https://instagram.com/mmaerhaeza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmaerhaeza" height="30" width="40" /></a>
